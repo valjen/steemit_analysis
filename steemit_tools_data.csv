@@ -1,0 +1,169 @@
+,creator,description,name,status,upvote,website
+0,http://steemit.com/@good-karma,Mobile application for Steem,eSteem,200,184,http://www.esteem.ws/
+1,http://steemit.com/@heimindanger,A decentralized video platform using STEEM and IPFS,DTube.video,200,139,http://dtube.video/
+2,http://steemit.com/@jesta,Stats about the Blockchain and individual Steem users,SteemStats,200,116,http://steemstats.com/
+3,http://steemit.com/@blueorgy,Steemit Image Hosting service for your posts,SteemImg,200,103,http://steemimg.com/
+4,http://steemit.com/@riverhead,Official Steem Chat,Steemit.Chat,503,101,http://steemit.chat/
+5,http://steemit.com/@heimindanger,A rankings website for Steemians,Steem Whales,200,80,http://steemwhales.com/
+6,http://steemit.com/@xeroc,The Swiff Army Knife for the Steem network. A command line tool for simplified blockchain querying.,Piston,200,70,http://piston.rocks/
+7,http://steemit.com/@xeroc,Make a profit off your content by streeming your posts from elsewhere into steemit.com.,Streemian,200,69,http://streemian.com/
+8,http://steemit.com/@discombulated,"Visualisation of SteemStream with options to pause, filter users",SteemitX,0,59,http://steemitx.com/
+9,http://steemit.com/@steemapp,Fully-Native iOS and Android App,Steemy,200,56,https://steemit.com/steemit/@steemapp/introducing-steemy-fully-native-ios-android-apps-for-steem
+10,http://steemit.com/@roadscape,Steem block explorer,Steemd,200,55,http://steemd.com/
+11,http://steemit.com/@mynameisbrian,A real-time visualization of current Steemit activity - with an aquatic theme,SteemitPond,200,54,http://steemitpond.com/
+12,http://steemit.com/@fleuri,Steemification adds notification when you get a new reply or upvote on your posts,Steemification,200,54,http://steemit.com/steemit/@fleuri/steemit-notifications-browser-extension-download-now
+13,http://steemit.com/@blueorgy,Precise Live Reputation Viewer,Steem.cool,200,54,http://steem.cool/
+14,http://steemit.com/@roelandp,"Explore your followers, follower count and the Steemit Network Graph",Steem-O-Graph,200,53,http://steem-o-graph.com/
+15,http://steemit.com/@xeroc,Easily secure your account with Steem Paperwallet Generator,Steem Paperwallet,200,50,http://github.com/xeroc/steem-paperwallet/releases/tag/0.3
+16,http://steemit.com/@xeroc,First open source Steem GUI,Piston.web,200,50,http://github.com/xeroc/piston
+17,http://steemit.com/@bitcoiner,Which whales are powering down?,SteemDown,200,48,http://steemdown.com/
+18,http://steemit.com/@originate,"Spot, Share and Discover steemers around the world",SteemSpot,200,47,http://steemspot.com/
+19,http://steemit.com/@busy.witness,A gui for consuming & creating the Steem Blockchain,Busy,200,46,https://busy.org/
+20,http://steemit.com/@fleuri,A channel on Telegram Messaging App dedicated to Steem,Steem on Telegram,200,46,http://telegram.me/steem_en
+21,http://steemit.com/@fabien,The JavaScript API for Steem blockchain,SteemJS,200,46,https://www.npmjs.com/package/steem
+22,http://steemit.com/@bitcoiner,Discover a Random Post,Steemit Random,200,45,http://steem.link/Steemit-Random
+23,http://steemit.com/@steemleak,SteemLeak is a donation and news portal for Wikileaks - Support Wikileaks with your votes!,SteemLeak,200,45,https://www.steemleak.com/
+24,http://steemit.com/@omotherhen,A CLI suite for mining/node setup,EzSteem,200,44,https://steemit.com/steemit/@omotherhen/ezsteem-1-2-1-update-ezwallet-autoupdate-other-changes
+25,http://steemit.com/@blueorgy,A site dedicated to whale sightings on Steemit.,Catch a Whale,200,43,http://catchawhale.com/
+26,http://steemit.com/@ausbitbank,"Steemviz displays all new posts, votes, comments, users, blocks, transfers and trades on the steem network blockchain in real time.",SteemViz,200,43,http://steemviz.com/
+27,http://steemit.com/@geoffrey,Estimate Curation Rewards,Steemit-Estimator,200,42,http://steemit-estimator.herokuapp.com/
+28,http://steemit.com/@roelandp,Vote On Steemy Hot People,Steemy or Not?,200,42,http://steemyornot.com/
+29,http://steemit.com/@newandold,"An advanced markdown editor for SteemIt users. Drag-and-Drop image adding and auto-post formatting, it is a unique editor.",SteemStyle,200,42,http://www.steemstyle.com/
+30,http://steemit.com/@roelandp,A minimalistic site telling individual Steemians stories,SteemStory,200,40,http://steemstory.com/
+31,http://steemit.com/@penguinpablo,Your personal Steem Dashboard to keep track of your latest Steem statistics.,SteemNow,200,40,https://www.steemnow.com/
+32,http://steemit.com/@arcange,SteemitBoard is the place where you can view your awards for your achievements on Steemit.,SteemitBoard,200,39,http://steemitboard.com/
+33,http://steemit.com/@fyrstikken,A Voice Community & 24/7 Radio-Station for Steemians!,Steem Speak,200,39,http://steemspeak.com/
+34,http://steemit.com/@wordpress-tips,A simple WordPress plugin that displays a feed of your Steemit posts.,Steemit Feed for Wordpress,200,39,https://steemit.com/steemit/@wordpress-tips/steemit-for-wordpress-1-display-your-steemit-blog-in-your-wordpress-website-with-this-free-plugin
+35,http://steemit.com/@bitcoiner,Quickly Switch Between Steemit.com and Steemd.com,Steemit ? Steemd,200,38,http://steem.link/487SR
+36,http://steemit.com/@pcste,Simple instructions to steemit,How to Steemit,200,38,http://howtosteemit.com/
+37,http://steemit.com/@arcange,A public SQL server database with all Steemit blockchain data,SteemSQL,200,38,http://www.steemsql.com/
+38,http://steemit.com/@picokernel,The first alternative social network to Steemit,Sqeek,200,38,https://github.com/NateBrune/Squeek.io
+39,http://steemit.com/@modprobe,A simple application which lets you store your Steem private keys outside of the browser. ,SteemPressure,200,37,http://github.com/NathanHourt/SteemPressure
+40,http://steemit.com/@bitcoiner,Because Voting is Important!,Steemit FloatVote,200,37,https://steemit.com/steemit/@bitcoiner/steemit-floatvote-because-voting-is-important
+41,http://steemit.com/@mynameisbrian,"Determines which of your followers are dead, or inactive, based on their most recent activity on Steemit.",Dead Followers,200,36,http://steemit.deadfollowers.info/
+42,http://steemit.com/@clayop,Stay Tuned with Steemit Using Telegram!,Noteefi,200,35,https://telegram.me/noteefi_bot
+43,http://steemit.com/@ausbitbank,Compare the steem marketcap against it's competition.,SteemCap,200,35,http://www.steemcap.com/
+44,http://steemit.com/@prc,Decentralized sound platform using STEEM and IPFS,DSOUND,200,35,https://dsound.audio/
+45,http://steemit.com/@bitcoiner,Let's Make the Editor Great (Again?)!,Steemit EasyEdit,200,35,https://steemit.com/steem/@bitcoiner/steemit-easyedit-let-s-make-the-editor-great-again
+46,http://steemit.com/@good-karma,Steem Monitor - Mobile application to monitor Steem Blockchain,Steem Monitor,200,35,https://steemit.com/steemmonitor/@good-karma/steem-monitor-intial-version-released-ios-android
+47,http://steemit.com/@unipsycho,"An automation tool for voting, curating and browsing Steemit!",AutoSteem,200,34,https://autosteem.learnthis.ca/
+48,http://steemit.com/@steemrollin,Trusted Marketplace of Goods & Services for Steem Dollars,Peerhub,200,34,https://www.peerhub.com/
+49,http://steemit.com/@void,Steem notification center,Steemwatch,502,34,http://steemwatch.com/
+50,http://steemit.com/@mauricemikkers,"Overview of live conversion rates of SBD, Steem and more",SteemDollar,200,34,http://steemdollar.com/
+51,http://steemit.com/@bitcoiner,Easily Go to a Blog,Steemit GoToBlog,200,34,https://steemit.com/steem/@bitcoiner/steemit-gotoblog-easily-go-to-a-blog
+52,http://steemit.com/@roelandp,"View all activity for all Steem users realtime. With Desktop notifications, speed analysis and more",SteemStream,200,34,http://steemstream.com/
+53,http://steemit.com/@jasonmcz,Check Steem and SBD against other cryptocurrency and against fiat.,Steem Prices,0,34,http://steemprices.com/
+54,http://steemit.com/@originate,The Dedicated Steem Post List Organizer and Discovery Platform,Steem Share,502,34,http://steemshare.com/
+55,http://steemit.com/@personz,"A free, open source curation bot providing a flexible, cusomisible curation algorithm; run as a Node.js server you control, no private keys change hands",Steem FOSSbot Voter,200,34,https://github.com/Steem-FOSSbot/steem-fossbot-voter
+56,http://steemit.com/@cryptotony,A url shortener for Steemit,Steem.link,200,34,http://steem.link/
+57,http://steemit.com/@roelandp,Consensus Based Radio Jukebox. Add your own tracks!,Radio Steem,200,33,http://radiosteem.com/
+58,http://steemit.com/@SteemRollers,Provably Fair Steem Dice on Steemit,SteemRollers,200,33,https://steemit.com/steemrollers/@steemrollers/steemrollers-or-provably-fair-steemdice-v-02-now-we-except-steem
+59,http://steemit.com/@roelandp,Find out who is your Most Valueble Player on Steemit,SteeM.V.P.,200,32,http://steemvp.com/
+60,http://steemit.com/@mapala,This is the information base for tourists which built on the Steem blockchain. MapalaNet is a Wikipedia for tourists that is creating by users themselves. Users write articles and get rewards for it using arrangements created by Steem.,Mapala.net - World Travel Community,200,32,https://mapala.net/
+61,http://steemit.com/@andrew0,Steemit Posts Ideas Generator,Steem Ideas,200,32,http://www.steemideas.com/
+62,http://steemit.com/@someguy123,Create steem accounts without a phone number or email,Anonsteem,200,32,http://anon.steem.network/
+63,http://steemit.com/@unipsycho,A free multiple draft steem content writer.,SteemWriter,200,31,https://steemwriter.learnthis.ca/
+64,http://steemit.com/@elear,Rewards contributions to Open Source projects using Steem,Utopian.io,200,31,https://utopian.io/
+65,http://steemit.com/@steemitqa,We verify SteemIt users anonymously.,SteemVerify,200,31,https://www.steemverify.com/
+66,http://steemit.com/@randowhale,@randowhale Will upvote posts at random power between 1-50% for 2 STEEM or SBD,RandoWhale,200,30,https://steemit.com/steemit/@kennyskitchen/launching-payitforward-in-conjunction-with-the-activation-of-randowhale-plus-a-complete-walkthrough-of-the-process
+67,http://steemit.com/@dragosroua,See when you're getting paid.,Steem Supply,200,29,http://steem.supply/
+68,http://steemit.com/@someguy123,A wiki with articles for both new users and developers alike.,Steem Center,200,29,http://steem.center/
+69,http://steemit.com/@pharesim,Gamble with Steem and SBD,SteemDice,200,29,http://steemdice.net/
+70,http://steemit.com/@anduweb,A url shortener for Steemit,Steem.ly,200,29,http://steem.ly/
+71,http://steemit.com/@pcste,An extra place for steemit users to communicate with each other and post and share for fun,Steemfriends,200,29,http://steemfriends.com/
+72,http://steemit.com/@joomla-tips,A simple Joomla module that displays a feed of your Steemit posts.,Steemit Feed for Joomla,200,28,https://steemit.com/steemit/@joomla-tips/display-your-steemit-blog-in-your-joomla-website-with-this-free-extension
+73,http://steemit.com/@bitcoiner,Easily Monitor Elapsed Times of Posts,Steemit CountDown,200,28,http://steem.link/5ReUv
+74,http://steemit.com/@yamadapc,A command-line client to create Steem posts,steemcli,200,27,https://github.com/yamadapc/steemcli
+75,http://steemit.com/@furion,A Database Layer for STEEM,SteemData,200,27,https://steemdata.com/
+76,http://steemit.com/@r4fken,Realtime & Historic Price Charts for Steem and Steemdollar,SteemitMETA.com,200,27,http://www.steemitmeta.com/
+77,http://steemit.com/@thecryptofiend,A single site with guides and tutorials to get started on Steemit.,SteemitHelp,200,26,https://www.steemithelp.net/
+78,http://steemit.com/@mauricemikkers,Compare your Steemit Wealth against the wolds average monthly disposable salaries.,Power Down Wealth Checker,200,26,http://www.steemdollar.com/powerdown_map.php?name=dantheman
+79,http://steemit.com/@elyaque,"Steem, SBD and BTC Price / Chart at a glance in realtime!",SteemChart,200,26,http://steemchart.com/
+80,http://steemit.com/@originate,A url shortener for Steemit,Steem Url,200,26,http://steemurl.com/
+81,http://steemit.com/@tralawar,Import you Steem feed and used timed votes,Curator Pro Feed,200,25,https://github.com/tralawar/Curator-Pro-Feed/
+82,http://steemit.com/@steven1980,"Steem Rewards Report, Ranking",SteemB,200,25,http://www.steemb.com/
+83,http://steemit.com/@jesta,Desktop wallet for the Steem blockchain,Vessel,200,25,https://steemit.com/steem-project/@jesta/vessel-pre-release-looking-for-feedback
+84,http://steemit.com/@inertia,"Dr. Phil (`drphil.rb`) is reimplementation of the ""Winfrey"" voting bot specification. The goal is to give everyone an upvote.",Dr. Phil,200,24,https://gist.github.com/inertia186/61bcc2b821aa5acb24f7fc88921950c7
+85,http://steemit.com/@burnin,A calculator to estimate reward shares an vote weight before voting,Steemit Vote Weight Calculator,200,24,https://steemcalculator.github.io/
+86,http://steemit.com/@bitcalm,An open source Arduino library for accessing the Steem web socket API,Steemduino,200,23,https://github.com/jonblack/steemduino
+87,http://steemit.com/@klye,Daily Free STEEM Faucet and Seed Node,Steem.Global,200,22,http://steem.global/
+88,http://steemit.com/@someguy123,Instant value for any currency pair (including STEEM),Steem Value,200,22,https://value.steem.network/
+89,http://steemit.com/@crimsonclad,A website detailing the Minnow Support Project,Minnow Support Project,200,22,https://minnowsupportproject.org/
+90,http://steemit.com/@dez1337,This project is a wrapper for the Steem Websocket api and allows to interact with Steem blockchain.,Steem Java Api,200,21,https://github.com/marvin-we/steem-java-api-wrapper
+91,http://steemit.com/@good-karma,Decentralized Crowd Decision making dapp,SteemPoll,200,21,http://steempoll.net/
+92,http://steemit.com/@recrypto,Publish Your WordPress Posts on Steem Blockchain!,WordPress Steem,200,21,https://steemit.com/steemdev/@recrypto/wordpress-steem-1-0-0-beta
+93,http://steemit.com/@raymonjohnstone,SteemStars is a simple way of viewing all followers and follows. ,SteemStars,200,21,https://steemstars.herokuapp.com/
+94,http://steemit.com/@elviento,Web application for observation of curation activity based on SteemIt blockchain.,WhaleSonar,200,21,http://steem.loadsup.net/sonar/
+95,http://steemit.com/@thekyle,A free and powerful steem search engine.,AskSteem,200,20,https://www.asksteem.com/
+96,http://steemit.com/@lantto,Tool for testing Steem API calls.,Steem API Explorer,0,20,http://steemroll.io/api-explorer
+97,http://steemit.com/@zombee,"Like 9GAG, make money with memes on Steem.",dMania,200,19,https://dmania.lol/
+98,http://steemit.com/@followbtcnews,Tools for Steemians including powerful Mentions Tool.,Steemistry,200,19,http://steemistry.com/steemit-mentions-tool/
+99,http://steemit.com/@inertia,Steem Ruby API Client,Radiator,200,19,https://github.com/inertia186/radiator
+100,http://steemit.com/@shaunmza,Follower details for your steem profile,Steem Follower,503,19,https://steem.makerwannabe.com/
+101,http://steemit.com/@jesta,An experimental forum build on top of the Steem blockchain,ChainBB,0,19,https://beta.chainbb.com/
+102,http://steemit.com/@lantto,List of handy bookmarklets for Steem.,Steemlets,200,18,http://steemlets.com/
+103,http://steemit.com/@lantto,A live feed showing all comments and replies in realtime.,Steemroll,0,18,http://steemroll.io/
+104,http://steemit.com/@mikehere,Your who's who guide for steemit,Steemwho,200,18,http://steemwho.com/
+105,http://steemit.com/@cardboard,"Super easily sending tips, promoting and sharing profit on steemit",@tipU,200,17,https://steemit.com/steemit/@tipu/introducing-tipu-service-for-super-easy-sending-tips-promoting-and-sharing-profit
+106,http://steemit.com/@t3ran13,Service for generating JPEG or GIF to promote/announce your blog posts,slider.mysteemit.xyz,200,17,https://steemit.com/steemtools/@t3ran13/slider-mysteemit-xyz-service-for-generating-jpeg-or-gif-to-promote-announce-your-blog-posts
+107,http://steemit.com/@tarekadam,Find and connect to Steemians with the same interest,Steem-Buddy,200,16,http://steem-buddy.com/
+108,http://steemit.com/@inertia,A bunch of different tools to find users and posts.,Ganymede,200,14,https://steem-ganymede.herokuapp.com/
+109,http://steemit.com/@triddin,A Discord bot to monitor the blockchain for keywords and post a message in-channel when it's discovered.,The Seeress,200,14,https://github.com/norganna/steem-seeress
+110,http://steemit.com/@sarasate,React Native app for steem.,Insteem,200,14,http://www.insteem.com/
+111,http://steemit.com/@steem-plus,Browser extension that lets users hide resteems (whitelist/blacklist and reputation filters) and minnows chose their voting weight.,steem-plus,200,14,https://steemit.com/steem/@steem-plus/steemplus-extension-now-available-on-chrome-opera-and-firefox
+112,http://steemit.com/@RebelSkum,Customizable UI and feeds for Steemit,Esteem.Life,0,14,https://esteem.life/
+113,http://steemit.com/@jesta,PHP Library for the Steem blockchain RPC,steemphp,200,14,https://github.com/greymass/steemphp
+114,http://steemit.com/@almost-digital,experiment with the steem API without having to setup your own coding environment,dsteem playground,200,13,https://steemit.com/steemdev/@almost-digital/dsteem-playground
+115,http://steemit.com/@elviento,visual application to interact with curators who constantly upvote your posts.,UpVoters,200,13,http://steem.loadsup.net/upvoters/
+116,http://steemit.com/@ausbitbank,A tool to quickly check how much you need to spend on promotion to get into the front page,Promo Price,200,13,https://steemviz.com/promo
+117,http://steemit.com/@maxse,"A skin that shows your voting power, rewards, post count, balance and savings on your desktop!",SteemUserStats Rainmeter skin,200,13,https://steemit.com/steem/@maxse/view-your-steem-user-stats-on-your-desktop-with-rainmeter
+118,http://steemit.com/@leprechaun,Upload/Download Premium Content,Steem Files,200,13,http://www.steemfiles.com/
+119,http://steemit.com/@jesta,Blog engine powered by the STEEM Blockchain,Reprint,0,13,http://reprint.io/
+120,http://steemit.com/@mkt,"Multifeed Steem UI that supports voting, commenting and posting and notifies you on incoming votes and mentions.",SteemLine,200,12,https://steemline.markus-kottlaender.de/
+121,http://steemit.com/@inertia,STEEM Centric Discord Bot Framework,Cosgrove,200,12,https://github.com/steem-third-party/cosgrove
+122,http://steemit.com/@jeongmincha,Find out who's your best friend on steemit.,SteemFriend,200,12,http://steemfriend.com/
+123,http://steemit.com/@klye,Text to Tip Bot ,Tippy,200,11,https://steemit.com/@tippy
+124,http://steemit.com/@steepshot,Steepshot is an open source Web app for lifestyle sharing based on Steem blockchain.,Steepshow Web,200,11,https://alpha.steepshot.io/
+125,http://steemit.com/@mkt,A simple way to display content,Steem Widgets,200,11,https://mktcode.github.io/steemit-widgets/
+126,http://steemit.com/@furion,simple Steem Witness Toolkit,Conductor,200,10,https://steemit.com/steem/@furion/introducing-conductor-a-simple-steem-witness-toolkit
+127,http://steemit.com/@sarasate,Developer resources for Steem.,SteemDocs,200,10,https://www.steemdocs.com/
+128,http://steemit.com/@roxane,French Website indexing ressources to better understand Steem and use it to it's full potential.,Comprendre-Steem.fr,200,10,http://www.comprendre-steem.fr/about/
+129,http://steemit.com/@luigi-tecnologo,SteemWinner is a easy app to pick winners for your CONTEST / GIVEAWAY,SteemWinner,200,10,https://steemwinner.surge.sh/
+130,http://steemit.com/@ontofractal,open source Elixir library for Steem,Steemex ,200,9,https://steemit.com/steemdev/@ontofractal/steemex-v0-11-released-now-with-producer-of-structured-operations-open-source-elixir-library-for-steem
+131,http://steemit.com/@steemir-app,Chrome Extension that helps you easily share your new YouTube videos on Steem.,Steemir,200,9,https://steemir.com/
+132,http://steemit.com/@rhondak,Digital bookshelves for serialized Steemit posts,Steemshelves,200,9,http://www.steemshelves.com/
+133,http://steemit.com/@lottobot,Bot that runs a lottery on the Steem newtwork.,Lottobot,200,9,https://github.com/ErikLetson/steem-lottobot
+134,http://steemit.com/@dez1337,An API Wrapper for Steem written in Java,SteemJ,200,9,https://github.com/marvin-we/steem-java-api-wrapper
+135,http://steemit.com/@sarasate,Freelancing Marketplace on steem,SteemJ,403,8,http://steemtools.com/SteemJ.com
+136,http://steemit.com/@shango,"User analysis tool that gets your data, performs calculations and presents it in the best readable format.",SteemTracked,403,8,http://steemtools.com/SteemTracked.com
+137,http://steemit.com/@recrypto,Wordpress plugin for Easy Digital Downloads shops to accept STEEM and SBD,EDD Steem,200,8,https://wordpress.org/plugins/edd-steem/
+138,http://steemit.com/@zcgolf16,A simple STEEM price ticker for OSX toolbar,steemticker-osx,200,8,https://github.com/ZachC16/steemticker-osx
+139,http://steemit.com/@paolobeneforti,Showcase to sell and buy art using SBD,Steemarket,200,8,http://www.steemarket.com/
+140,http://steemit.com/@dapeng,a web-based multifunctional tool for Steem or Steemit users,Steemr,202,7,https://pzhao.shinyapps.io/steemr/
+141,http://steemit.com/@furion,"SteemData Notify is a free blockchain monitoring service, that sends you (the account owner) Email and Telegram notifications when Payments and critical Account Changes occur.",SteemData Notify,0,6,https://notify.steemdata.com/
+142,http://steemit.com/@netuoso,View statistics on the STEEM witnesses you vote for as well as the top 200.,Witness Stats,200,6,https://witstats.steemliberator.com/
+143,http://steemit.com/@tabris,Real-time curated list of Steemit under-valued posts,UNDER_STEEMED,200,6,https://sydneyitguy.github.io/understeemed
+144,http://steemit.com/@fervi,"SteemDash is a platform, where you can publish funny quotes from all types of electronic communications - IRC, chat rooms, e-mail, Steemit chat, and others.",SteemDash,200,6,http://www.steemdash.tk/
+145,http://steemit.com/@techtek,"SteemPi is a Tv-box software that presents Steemit, crypto currency, entertainment, and smarthome features on a connected TV and to your mobile devices. ",SteemPi,200,6,https://github.com/techtek/steempi/tree/dev
+146,http://steemit.com/@oroger,Find out in which article your username has been used,Mentions tool,200,6,http://api.comprendre-steem.fr/mentions/
+147,http://steemit.com/@steemreports,"Produce reports helping you make sense of Steemit, and your place within it.",SteemReports,200,6,http://www.steemreports.com/
+148,http://steemit.com/@kasperfred,"Filter content using advanced queries combining multiple authors and tags with ease,",Steem Tag Search,200,5,https://steem.kasperfred.com/tagsearch/
+149,http://steemit.com/@jfuenmayor96,A simple Markdown editor for Steemit posts with post preview feature,Mark Steem Down,200,5,https://mark-steem-down.herokuapp.com/
+150,http://steemit.com/@vitkolesnik,find quality posts and promising authors on Steemit,Steemfilter,403,5,https://steemfilter.space/
+151,http://steemit.com/@furion,Check history of any STEEM Post,phist,200,5,https://phist.steemdata.com/
+152,http://steemit.com/@tarekadam,View SBD / STEEM Transactions from and to users / exchanges.,Steem-Flow,200,5,http://steem-flow.com/
+153,http://steemit.com/@augustol,Blog showing content form steem blockchian using steemit platform and api.,SteemBlog,200,5,http://steemblog.io/
+154,http://steemit.com/@semasping,Notifications about new articles in Telegram.,SteemitPostNotifyBot,200,5,https://steemit.com/steemit/@semasping/steemitpostnotifybot-notifications-about-new-articles-in-telegram
+155,http://steemit.com/@emrebeyler,Activity feed for steem accounts.,Steem.Rocks,200,5,http://steem.rocks/
+156,http://steemit.com/@pharesim,"Create invite links, which can either sent by email or copied to be sent out in other ways.",SteemInvite,200,4,https://steeminvite.com/
+157,http://steemit.com/@ontofractal,"App and blog server for Golos and Steem blockchains built with Elixir, Phoenix and Mnesia.",Glasnost,200,4,https://steemit.com/steemdev/@ontofractal/glasnost-v0-10-released-now-with-configurable-menus-and-other-improvements-publish-your-steem-blogs-on-your-own-domain
+158,http://steemit.com/@t3ran13,"Altenative sorting method, Help discover good but underrewarded content.",Rating,200,4,http://rating.mysteemit.xyz/
+159,http://steemit.com/@voorash,Curation assistance and other cool tools for steem,Steem Press,200,4,http://steem.press/
+160,http://steemit.com/@danielsaori,Steemit & Discord bot - Built on Steem-Python and discord.py,Dorabot,200,4,https://steemit.com/bot/@danielsaori/steemit-and-discord-bot-built-on-steem-python-and-discord-py
+161,http://steemit.com/@najoh,Frontend to Steem,Steemiz,200,4,https://stage.steemiz.io/
+162,http://steemit.com/@davidk,analyses your posts and list all the downvoters with the percentage of the downvote.,SteemHater!,200,4,https://steemit.com/steemit/@davidk/steemhater-the-newest-steemit-tool-to-find-out-who-hates-you
+163,http://steemit.com/@zcgolf16,Simple STEEM price SMS alerts,steem-alerts,200,3,https://github.com/ZachC16/steem-alerts
+164,http://steemit.com/@andrejcibik,Design guidelines and resources for designers.,SteemitDesign.com,200,4,http://www.steemitdesign.com/
+165,http://steemit.com/@ansek,Emoji Picker for SteemIt comments (Chrome Extension),SteemIt Smile,200,3,https://chrome.google.com/webstore/detail/steemit-smile/nhfmbhehpbnbkekglbgijfkegcpeegmo?hl=en
+166,http://steemit.com/@php-node-client,PHP client for connection to STEEM/GOLOS node,Php client,200,1,https://github.com/t3ran13/php-graphene-node-client
+167,http://steemit.com/@xtar,Open Source standalone GUI for Steem escrow transactions,Escrow GUI,200,1,https://steemit.com/escrow/@xtar/open-source-standalone-gui-for-steem-escrow-transactions
